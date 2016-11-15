@@ -1,0 +1,18 @@
+
+.logo-bar{
+	font-size: 150%;
+	font-weight: bold;
+	margin-right: 50px;
+}
+
+.jumbotron{
+	background-image: url(img/background-jumbotron.jpg);
+	background-position: center;
+	text-align: center;
+}
+#resumen-caract{
+	text-align: center;
+}
+.card-img-top{
+	width: 100%;
+}
